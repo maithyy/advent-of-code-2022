@@ -1,5 +1,3 @@
-
-
 def main():
     with open('input.txt') as f:
         cycle = 1
